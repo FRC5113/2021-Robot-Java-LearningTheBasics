@@ -24,6 +24,10 @@ public final class Constants {
         public final static int RIGHT_PARENT_ID = 12;
         public final static int RIGHT_CHILD_ID = 11;
 
+        public final static double RAMP_RATE = 0.5;
+        public final static double VOLTAGE_COMPENSATION = 12.3;
+        public final static double DEADBAND = 0.02;
+
     }
 
 }
